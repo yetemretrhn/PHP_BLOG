@@ -20,7 +20,7 @@ session_start();
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6 mb-4 mb-lg-0">
-        <img src="public/images/emre.jpg" alt="" class="img-fluid rounded">
+        <img src="public/images/hakkimizda.jpeg" alt="" class="img-fluid rounded">
       </div>
       <div class="col-lg-6">
         <div class="about-text text-light">

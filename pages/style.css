@@ -56,8 +56,8 @@ button[type="button"]:hover {
 }
 
 .about img {
-  border: 2px solid #f30a0a;
-  box-shadow: 0 0 5px #f30a0a, 0 0 25px #f30a0a;
+  border: 2px solid #1d4c39;
+  box-shadow: 0 0 5px #58b886, 0 0 25px #26764e;
   height: auto;
   width: 45%;
   border-radius: 5em;

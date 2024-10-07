@@ -3,7 +3,7 @@ session_start();
 
 // Eğer oturum açılmamışsa yönlendir
 if (!isset($_SESSION['admin'])) {
-    header("Location: admin_login.php");
+    header("Location: admin_giris.php");
     exit();
 }
 
